@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5827
     wikipedia: http://en.wikipedia.org/wiki/Julian_Corbett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16695#Fighting-Instructions-1530-1816Publications-Of-The-Navy-Records-Society-Vol.-XXIX.
 gutenberg_issued: '2005-09-15'
 gutenberg_type: Text
 identifiers:
